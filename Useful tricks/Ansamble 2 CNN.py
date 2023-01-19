@@ -34,9 +34,9 @@ for param in model_ensemble.classifier.parameters():
 
 # посмотрим какие параметры учим у model_ensemble
 # print_learn_params(model_ensemble)
-#
-# Params to learn:
-# 	 classifier.weight
-# 	 classifier.bias
+
+Params to learn:
+	 classifier.weight
+	 classifier.bias
 
 
